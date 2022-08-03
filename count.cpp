@@ -34,6 +34,8 @@ auto main() -> int {
     std::cout << fun(5,4,3,2,1);
 }
 /*
+Bellow is a procedural version of the program to elucidate how and what the
+program is doing.
 std::string f(int n) {
     if(n == 1){
         return "1";
